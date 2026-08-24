@@ -96,6 +96,10 @@ Through this project, I gained practical experience in:
 * Hardware-software integration
 * Debugging and troubleshooting
 
+#Project output -
+*see Smart_study_output_1 image and Smart_study_output_2 image
+*Watch this project demo video in my linkdin post(https://www.linkedin.com/posts/rakshita-rolli-693086359_iot-embeddedsystems-esp8266-ugcPost-7496996971044569088-u0ih/?utm_source=share&utm_medium=member_android&rcm=ACoAAFkthE8BGPKedUSCC4jfFG6rPRnQDVXeVgs)
+
 
 
 ⭐ If you find this project useful, feel free to explore the code and learn from it.
